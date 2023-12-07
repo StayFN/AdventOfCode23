@@ -1,7 +1,3 @@
-
-
-using System.CodeDom.Compiler;
-
 Day5(true);
 
 void Day5(bool part2)
